@@ -1,5 +1,5 @@
 # Base-Dados-UC-Data-Base-Subject-
-Data Base Term Project
+Data Base Term Projects
 
 michelinStar.bak -> Restaurant "Michelin Star"  database
 
