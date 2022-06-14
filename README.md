@@ -3,7 +3,7 @@ Data Base Term Projects
 
 michelinStar.bak -> Restaurant "Michelin Star"  database
 
-Relatorio_BD_Grupo17.pfd -> Term Project "Michelin Star" Report in portuguese
+BD_G17_Relatorio.pfd -> Term Project "Michelin Star" Report in portuguese
 
 cliPet.bak -> "CliPet" Vet Clinics group database
 
